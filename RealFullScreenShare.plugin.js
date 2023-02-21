@@ -7,13 +7,14 @@
 
 module.exports = class RealFullscreenShare {
     start() {
+
       document.addEventListener('keydown', e => {
           if(e.key === 'f') {
             document.querySelector('video').requestFullscreen()
           }
       });
+
     }
 
-    stop() {
-    }
+    stop() {}
 }
