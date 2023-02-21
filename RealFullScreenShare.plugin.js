@@ -2,7 +2,7 @@
  * @name RealFullScreenShare
  * @author github.com/lullaby6
  * @description A real full screen for discord screen shares.
- * @version 0.0.1
+ * @version 0.0.2
  */
 
 module.exports = class RealFullscreenShare {
