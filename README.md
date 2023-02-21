@@ -1,6 +1,6 @@
 # RealFullScreenShare
 
-To toggle the full screen in a video screen share use your key "f".
+To toggle the real full screen in a video screen share use your key "f".
 
 ### Default discord full screen:
 ![Before](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQAdZTDaZdhBUaqZiifeA9ppt4YFOhVnfE_b0x_cy0bIJO2X-M4p4jl2SU8hRGeOe3KNr0iDgJQFjY3KMThRd2AtQ8k=w1325-h627)
