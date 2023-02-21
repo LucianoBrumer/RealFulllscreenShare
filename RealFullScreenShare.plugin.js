@@ -1,6 +1,6 @@
 /**
- * @name RealFullscreenShare
- * @author github.com/LucianoBrumer
+ * @name RealFullScreenShare
+ * @author github.com/lullaby6
  * @description A real full screen for discord screen shares.
  * @version 0.0.1
  */
